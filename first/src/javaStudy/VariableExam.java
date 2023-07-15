@@ -19,6 +19,11 @@ public class VariableExam {
 		
 		int totalCount; // 단어를 쓸때 두번째 단어 대문자쓰기(반짝 꿀팁)
 		
+	
+		//문제 풀기
+		// 정수형 변수, number를 선언하고 3을 저장해보세요.
+		int number = 3;
+		System.out.println(number);
 	}
 
 }
