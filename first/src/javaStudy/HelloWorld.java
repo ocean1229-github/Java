@@ -1,4 +1,4 @@
-package test;
+package javaStudy;
 //이 클래스를 누가 만들었는지
 public class HelloWorld {
 	/**
