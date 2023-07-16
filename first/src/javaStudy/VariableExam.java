@@ -9,6 +9,8 @@ public class VariableExam {
 		
 		count = 20;
 		
+//		이러면 count가 20으로 저장 마지막 변수 선언 값이 들어감
+		
 		System.out.println(count);
 		
 //		count = 11.1; //int 했는데 double을 하면 오류가남
