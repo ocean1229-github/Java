@@ -31,22 +31,18 @@ public class PrimitiveDataTypes {
 		double d = 3434343.5;
 
 		// 기본형 타입 문제   
-		boolean
-		 isFun2 = false;
+		boolean isFun2 = false;
 		        
-		char
-		 charValue2 = 'a';
+		char charValue2 = 'a';
 		        
-		int
-		 intValue2 = 20;
+		int intValue2 = 20;
 		        
-		long
-		 longValue2 = 2147483648L; 
+		long longValue2 = 2147483648L; 
 
-		        System.out.println(isFun2);
-		        System.out.println(charValue2);
-		        System.out.println(intValue2);
-		        System.out.println(longValue2);
+		System.out.println(isFun2);
+		System.out.println(charValue2);
+		System.out.println(intValue2);
+		System.out.println(longValue2);
 		
 	}
 
