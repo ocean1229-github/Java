@@ -22,6 +22,14 @@ public class ConstantExam {
 		
 		int totalPrice = 50 * OIL_PRICE;
 		
+		//문제
+		// 상수 PI를 만들어보세요.
+        
+		final double PI2 = 3.14159;
+
+		int radius = 5;
+		double result = radius * 2 * PI2;
+		System.out.println(result);
 		
 	}
 
