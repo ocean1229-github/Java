@@ -39,6 +39,22 @@ public class OperatorExam {
 		//2(몫만 나옴)
 		//캐스팅 연산시 2.5라고 나옴.
 		System.out.println(i % j);
+	
+		//문제
+		int a = 7; 
+        int b = 3;
+
+        //c는 a와 b의 합 
+        int c = a + b;
+
+        //d는 a와 b의 차
+        int d = a - b;
+
+        //e는 a와 b의 곱
+        int e = a * b;
+
+        //f는 a를 b로 나눈 나머지 
+        int f = a % b;
 		
 	}
 
