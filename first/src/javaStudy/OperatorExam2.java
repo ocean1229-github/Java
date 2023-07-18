@@ -44,6 +44,7 @@ public class OperatorExam2 {
         //a와 b가 다른지 비교한 결과를 e에 저장하세요.
         boolean e = a != b;
 		
+        
 	}
 
 }
