@@ -24,6 +24,16 @@ public class OperatorExam4 {
 		System.out.println(b1 ^ b3);
 		System.out.println(b1 ^ b2);
 		System.out.println(!b1);
+	
+		// 문제
+		int age = 5;
+	    boolean isDiscount = false;
+	    // 아래 빈칸을 채워 코드를 완성하세요.
+	    if(age <= 19 || age >= 60) {
+	        isDiscount = true;
+	    }
+	    else {
+	        isDiscount = false;
+	    }
 	}
-
 }
