@@ -35,5 +35,15 @@ public class OperatorExam4 {
 	    else {
 	        isDiscount = false;
 	    }
+	    
+	  //아래 빈칸을 채워 코드를 완성하세요.
+	    boolean isTwenties = false;
+        if(age >= 20 && age <= 29) {
+            isTwenties = true;
+        }
+        else {
+            isTwenties = false;
+        }    
+	    
 	}
 }
