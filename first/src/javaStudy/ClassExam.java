@@ -15,6 +15,12 @@ public class ClassExam {
 		int value = array3[0];
 		
 		System.out.println(value);
+	
+		//문제
+		// 길이가 5인 정수형 배열 array를 만들어보세요.
+        // array의 원소는 차례로 1, 2, 3, 4, 5 여야합니다.
+//        int[] array = new int[]{1,2,3,4,5};
+	
 	}
 	
 }
