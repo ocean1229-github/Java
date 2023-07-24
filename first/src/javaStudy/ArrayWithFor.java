@@ -23,6 +23,12 @@ public class ArrayWithFor {
 		
 		System.out.println(sum);
 		
+		// 문제
+		// array에 순서대로 1부터 100까지 정수를 넣어보세요.
+//        for(int i = 0; i<100; i++){
+//            array[i] = i + 1;
+//        }
+		
 	}
 
 }
