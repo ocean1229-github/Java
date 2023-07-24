@@ -23,12 +23,18 @@ public class ArrayWithFor {
 		
 		System.out.println(sum);
 		
-		// 문제
+		// 문제 1
 		// array에 순서대로 1부터 100까지 정수를 넣어보세요.
 //        for(int i = 0; i<100; i++){
 //            array[i] = i + 1;
 //        }
-		
+		// 문제 2
+//		int sum = 0;
+//         array는 길이를 알 수 없는 int형 배열입니다.
+//         변수 sum에 array의 모든 값을 더해보세요.
+//        for(int i = 0; i < array.length; i++){
+//            sum = sum + array[i];
+//        }
 	}
 
 }
