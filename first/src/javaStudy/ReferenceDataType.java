@@ -13,7 +13,8 @@ public class ReferenceDataType {
 		// 메모리에 올라간 클래스를 인스턴스
 		// 레퍼런스(참조)한다.
 		// 즉 str은 이 String("hello")를 참조한다. (가르킨다)
-		
+		// str *string만 많이 써서 그런지 특수한 경우로
+		// new를 쓰지 않아도 사용가능.
 	}
 
 }
