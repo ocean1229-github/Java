@@ -20,10 +20,13 @@ public class MyClass {
 	
 	public void method4(int x, int y) {
 		System.out.println(x + y + "메소드4 실행");
+		// 매개 변수가 2개존재 리턴값은 없음.
 	}
 	
 	public int method5(int y) {
 		System.out.println("y" + "이용한 메소드5 실행");
-		return y * 2; 
+		return y * 2;
+		// 매개변수 1개 리턴값 1개 존재.
 	}
+	// 위와같이 메소드의 경우 5가지의 대표적인 형태가 있음.
 }
