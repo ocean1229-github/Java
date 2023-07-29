@@ -9,9 +9,9 @@ public class ArrayExam2 {
 		
 		
 		int[][] array5 = new int[3][];
-		//	0
-		//	0
-		//	0
+		//	0 null
+		//	0 null
+		//	0 null
 		// 위 처럼 가로가 안생김.
 		
 		array5[0] = new int[1];
