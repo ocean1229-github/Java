@@ -7,6 +7,7 @@ public class Car {
 	void run() {
 		System.out.println("차가 달립니다.");
 	}
+	// void 내용은 class 안에서만 가능.
 }
 
 
