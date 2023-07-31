@@ -24,7 +24,7 @@ public class MyClass {
 	}
 	
 	public int method5(int y) {
-		System.out.println("y" + "이용한 메소드5 실행");
+		System.out.println(y + "이용한 메소드5 실행");
 		return y * 2;
 		// 매개변수 1개 리턴값 1개 존재.
 	}
