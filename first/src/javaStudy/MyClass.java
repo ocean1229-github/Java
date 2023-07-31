@@ -29,4 +29,10 @@ public class MyClass {
 		// 매개변수 1개 리턴값 1개 존재.
 	}
 	// 위와같이 메소드의 경우 5가지의 대표적인 형태가 있음.
+	
+	//문제
+	 public int myMethod(int x){
+	        System.out.println(x + "myMethod가 실행되었습니다.");
+	        return 10;
+	    }
 }
