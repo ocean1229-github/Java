@@ -45,5 +45,14 @@ public class VariableScopeExam {
 		// 클래스 이름을 직접 사용하는 것이 가능
 		// 클래스이름.클래스변수명
 		System.out.println(VariableScopeExam.staticVal);
+		
+		
+		// 문제
+//		public class VariableScopeExam{
+//		    static int value = 10;
+//		    public static void main(String []args){
+//		        System.out.println(value);
+//		    }
+//		}		
 	}
 }
