@@ -4,8 +4,9 @@ public class CarExam {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Car c1 = new Car();
-		Car c2 = new Car();
+		Car c1 = new Car("");
+		
+		Car c2 = new Car("");
 //		new 연산자는 new연산자 뒤에 나오는 생성자를 이용하여 메모리에 객체를 만들라는 명령.
 //		메모리에 만들어진 객체를 인스턴스(instance)라고도 한다.
 //		이렇게 만들어진 객체를 참조하는 변수가 c1 , c2 이다.
@@ -25,8 +26,8 @@ public class CarExam {
 		System.out.println(c2.number);
 		
 		
-		Car car = new Car();
-		new Car();
+		Car car = new Car("");
+		new Car("");
 		car.run();
 	}
 
