@@ -17,7 +17,9 @@ public class Car {
 	
 	// this - 객체 자신을 참조하는 키워드
 	
-	
+	public void run(int x) {
+//		배개변수로 int형을 받으며 반환 값이 없는 경우 void를 사용.
+	}
 }
 
 
