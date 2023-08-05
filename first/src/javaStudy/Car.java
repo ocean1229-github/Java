@@ -20,6 +20,22 @@ public class Car {
 	
 	// this - 객체 자신을 참조하는 키워드
 	
+	
+	// 기본생성자란? 아무것도 받지 않는 생성자
+	public Car() {
+//		this.name = "이름없음";
+//		this.number = 0;
+		this("이름없음", 0);
+		// this를 쓸경우 자신의 타입생성자를 호출함.
+		// 코드 중복 방지
+		
+	}
+	
+	public Car(String name, int number) {
+		this.name = name;
+		this.number = number;
+	}
+	
 	public void run(int x) {
 //		배개변수로 int형을 받으며 반환 값이 없는 경우 void를 사용.
 		// int를 사용할경우 return을 무조건 해야하는데 반환값이 없는 경우는 오류가 나니까 void 잘 기억해둬야할거같음.
