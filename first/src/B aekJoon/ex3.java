@@ -5,17 +5,17 @@ public class Main{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		double num1,num2;
+		int num1,num2;
 		
 		Scanner s = new Scanner(System.in);
-		num1 = s.nextDouble();
-		num2 = s.nextDouble();
+		num1 = s.nextInt();
+		num2 = s.nextInt();
 
 		System.out.println(num1+num2);
 		System.out.println(num1-num2);
 		System.out.println(num1*num2);
 		System.out.println(num1/num2);
-        System.out.println(num%num2);
+        System.out.println(num1%num2);
     }
 
 }
